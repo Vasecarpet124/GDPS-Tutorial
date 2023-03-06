@@ -3,7 +3,7 @@ This tutorial is for people who have already downloaded the GDPS and wish to ins
 
 If you are new to this server, please go to the download channel in our discord server and download it from there. (https://discord.gg/6gesFJHCeW)
 # PC Installation:
-Step 1: Download PeetoBeans.exe: https://bit.ly/PB-GDPS-EXE!
+Step 1: Download PeetoBeans.exe: https://bit.ly/PB-GDPS-EXE
 
 ![image](https://user-images.githubusercontent.com/50207878/223217241-5cf72d1c-996c-407f-908b-fde07fa19717.png)
 
